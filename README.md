@@ -1,6 +1,6 @@
 # Babel with React
 
-Babel takes inline html, known as JSX, and transpiles it into a call to `React.createElement()`, which creates the html for us.
+A starting point for building React with Babel. Babel takes inline html, known as JSX, and transpiles it into a call to `React.createElement()`, which creates the html for us.
 
 ## Setup
 Using Babel preset for React.
